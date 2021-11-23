@@ -5,3 +5,4 @@ I'm currently a Junior Developer Apprentice. (I'm pretty much a foetus in the wo
 
 My current projects mainly focus around using **React/JSX**. 
 
+:sparkles:_Expect a lot of half-finished projects..._:sparkles: 
