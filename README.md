@@ -1,8 +1,17 @@
 
 ### Hi there 👋 I'm *Amelia*! 💜
 
-I'm currently a Junior Developer Apprentice. (I'm pretty much a foetus in the world of Developing)
+I'm currently a Junior Web Developer.
 
-My current projects mainly focus around using **React/JSX**. 
+I achieved my Level 4 Software Development Diploma in October 2022. 
 
-:sparkles:_Expect a lot of half-finished projects..._:sparkles: 
+My main skills are the following: 
+
+- React/NextJS
+- Javascript/Typescript
+- HTML
+- CSS/SASS
+- CMS (Umbraco and Bloomreach)
+- Node
+
+:sparkles:_Always looking to grow and develop my skills further!_:sparkles: 
